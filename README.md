@@ -9,6 +9,7 @@ Code is for our GameSec 2022 paper: Robust Moving Target Defense against Unknown
 We conducted numerical simulations using the real data from the National Vulnerability Database (NVD), which is stored at /experiments/nvdcve-1.1-2021.json. For more details, please visit: https://nvd.nist.gov/
 
 ### Reproduce experiments:
+run meta-RL+MTD.ipynb cell by cell
 
 ## Citation
 If you find our work useful in your research, please consider citing:
