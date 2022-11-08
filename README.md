@@ -26,7 +26,7 @@ You can also directly test/adapt ready-to-go policies in experiments file
 We conducted numerical simulations using the real data from the National Vulnerability Database (NVD), which is stored at /experiments/nvdcve-1.1-2021.json. For more details, please visit: https://nvd.nist.gov/
 ```
 
-### Reproduce experiments:
+### Reproduce experiment results:
 ```
 # Change the model dir to your own experiment
 python3 main.py
