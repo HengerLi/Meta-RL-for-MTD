@@ -14,6 +14,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```
+# Data Processing: Extract nvdcve-1.1-2021.json from /experiments/nvdcve-1.1-2021.zip and use NVD_parser to parse .json files
 # Default settings: pre-train 10000 steps, adpate 100 steps, test 1000 steps. 
 You can change these settings in main.py and select coresponding environment from experiments.py
 You can also directly test/adapt ready-to-go policies in experiments file
