@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```
-#Default settings: pre-train 10000 steps, adpate 100 steps, test 1000 steps. 
+# Default settings: pre-train 10000 steps, adpate 100 steps, test 1000 steps. 
 You can change these settings in main.py and select coresponding environment from experiments.py
 ```
 
@@ -26,7 +26,7 @@ We conducted numerical simulations using the real data from the National Vulnera
 
 ### Reproduce experiments:
 ```
-#Change the model dir to your own experiment
+# Change the model dir to your own experiment
 python3 main.py
 ```
 
