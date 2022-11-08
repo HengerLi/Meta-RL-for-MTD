@@ -30,6 +30,11 @@ We conducted numerical simulations using the real data from the National Vulnera
 python3 main.py
 ```
 
+## Reference
+
+NVD_parser is written by Tom Roginsky during our previous research on moving target defense supported by an NSF REU grant, the original code is avalible at https://github.com/MovingTargetDefenseCapstone/semester1
+
+
 ## Citation
 If you find our work useful in your research, please consider citing:
 ```
