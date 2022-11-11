@@ -1,4 +1,4 @@
-# meta-RL
+# meta-RL for MTD
 
 Code for our GameSec 2022 paper: Robust Moving Target Defense against Unknown Attacks: A Meta-Reinforcement Learning Approach
 
