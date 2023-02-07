@@ -46,4 +46,3 @@ If you find our work useful in your research, please consider citing:
   booktitle={GameSec 2022},
   year={2022}
 }
-
