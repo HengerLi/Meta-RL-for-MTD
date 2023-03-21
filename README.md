@@ -40,9 +40,11 @@ NVD_parser is written by Tom Roginsky during our previous research on moving tar
 ## Citation
 If you find our work useful in your research, please consider citing:
 ```
-@inproceedings{li2022robust,
-  title={Robust Moving Target Defense against Unknown Attacks: A Meta-Reinforcement Learning Approach},
+@inproceedings{li2023robust,
+  title={Robust Moving Target Defense Against Unknown Attacks: A Meta-reinforcement Learning Approach},
   author={Li, Henger and Zheng, Zizhan},
-  booktitle={GameSec 2022},
-  year={2022}
+  booktitle={Decision and Game Theory for Security: 13th International Conference, GameSec 2022, Pittsburgh, PA, USA, October 26--28, 2022, Proceedings},
+  pages={107--126},
+  year={2023},
+  organization={Springer}
 }
